@@ -1,0 +1,6 @@
+{
+    "notebook.stickyScroll.enabled": true,
+    "notebook.output.scrolling": true,
+    "notebook.output.textLineLimit": 10,
+    "notebook.output.wordWrap": true
+}
